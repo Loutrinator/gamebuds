@@ -1,0 +1,6 @@
+@GamebudsAPI_HostAddress = http://localhost:5187
+
+GET {{GamebudsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
