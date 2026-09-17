@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="gamebuds_icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.50329553"
+     inkscape:cx="557.32663"
+     inkscape:cy="318.89812"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="105.09472,297"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,297"
+       orientation="0,793.70079"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="210,297"
+       orientation="1122.5197,0"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="210,0"
+       orientation="0,-793.70079"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1122.5197,0"
+       id="guide7"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="123.32544,225.37987"
+       orientation="0,-1"
+       id="guide8"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="97.94542,116.18498"
+       orientation="0,-1"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50.370891,221.57488"
+       orientation="1,0"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="159.81855,215.49798"
+       orientation="1,0"
+       id="guide11"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="105.09472,170.78243"
+       orientation="0,-1"
+       id="guide12"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="83.081041,210.75928"
+       orientation="0,-1"
+       id="guide14"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="105.09487,236.92822"
+       orientation="0,-1"
+       id="guide15"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="105.09488,242.67606"
+       orientation="0,-1"
+       id="guide16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="38.949043,170.78239"
+       orientation="1,0"
+       id="guide17"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="33.188819,239.80834"
+       orientation="1,0"
+       id="guide18"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect15"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,26.48012,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,26.48012,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,26.48012,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,28.72848,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,26.48012,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,26.130265,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,25.647019,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:export-filename="C:\Users\Antoine\layer1.svg"
+     inkscape:export-xdpi="116.0372"
+     inkscape:export-ydpi="116.0372">
+    <g
+       id="g12">
+      <path
+         id="path1"
+         style="fill:#6c5ce7;fill-opacity:1;stroke-width:0.578035;stroke-linecap:square;stroke-miterlimit:10;paint-order:markers stroke fill"
+         d="m 38.949044,86.551905 v 39.665715 39.66571 c 0,14.62457 11.855554,26.48012 26.48012,26.48012 h 39.665716 39.66571 c 14.62457,0 26.48012,-11.85555 26.48012,-26.48012 v -26.43654 h -28.72848 c -5.60625,15.85687 -20.5986,26.45817 -37.41735,26.45833 -21.9188,0 -39.6875,-17.7687 -39.687503,-39.6875 2e-6,-21.9188 17.768702,-39.687502 39.687503,-39.687501 8.01064,7.7e-5 15.60696,2.405072 21.97213,6.637399 11.55642,7.684092 26.89276,19.820932 41.01402,19.820932 h 9.66491 l -4.5288,-13.686704 -1.97643,-12.749841 C 169.08756,72.662061 159.38516,60.071785 144.76059,60.071785 H 105.09488 65.429164 c -14.624566,0 -26.48012,11.855554 -26.48012,26.48012 z"
+         sodipodi:nodetypes="scsscsscccscssccsscss" />
+      <circle
+         style="fill:#6c5ce7;fill-opacity:1;stroke-width:0.375;stroke-linecap:square;stroke-miterlimit:10;paint-order:markers stroke fill"
+         id="path15"
+         cx="105.09488"
+         cy="34.480194"
+         r="19.84375" />
+      <circle
+         style="fill:#6c5ce7;fill-opacity:1;stroke-width:0.375;stroke-linecap:square;stroke-miterlimit:10;paint-order:markers stroke fill"
+         id="path15-8"
+         cx="13.345069"
+         cy="126.21757"
+         r="19.84375" />
+    </g>
+  </g>
+</svg>
