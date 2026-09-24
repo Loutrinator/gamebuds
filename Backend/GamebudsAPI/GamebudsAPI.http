@@ -4,3 +4,33 @@ GET {{GamebudsAPI_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+POST {{GamebudsAPI_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Aurelien Loos tears Pizza",
+    "isGlutenFree": true
+}
+
+###
+
+GET  {{GamebudsAPI_HostAddress}}/pizza/
+Accept: application/json
+
+###
+
+DELETE  {{GamebudsAPI_HostAddress}}/pizza/4
+
+###
+
+PUT {{GamebudsAPI_HostAddress}}/pizza/3
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "Cum Juice Feet Parmigiano Pizza",
+    "isGlutenFree": true
+}
+
+###
